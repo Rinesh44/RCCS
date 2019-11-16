@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.view.View;
 
-import com.example.rccs.R;
+import com.brilltech.rccs.R;
 import com.brilltech.rccs.activities.ReportsActivity;
 import com.brilltech.rccs.activities.base.BaseActivity;
 import com.brilltech.rccs.api.Endpoints;

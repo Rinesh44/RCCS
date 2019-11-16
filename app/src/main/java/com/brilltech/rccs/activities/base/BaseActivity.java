@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
 
-import com.example.rccs.R;
+import com.brilltech.rccs.R;
 import com.brilltech.rccs.utils.KeyboardUtils;
 import com.google.android.material.snackbar.Snackbar;
 
