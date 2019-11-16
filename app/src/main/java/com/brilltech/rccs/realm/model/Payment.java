@@ -7,7 +7,7 @@ public class Payment extends RealmObject {
     @PrimaryKey
     private String paymentId;
     private String donorId;
-    private String categoty;
+    private String category;
 
 
 }

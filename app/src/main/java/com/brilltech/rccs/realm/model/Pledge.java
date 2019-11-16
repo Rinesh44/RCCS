@@ -19,7 +19,7 @@ public class Pledge extends RealmObject {
     private float pledgeAmount;
     private float balanceAmount;
     private String groupSeq;
-//    private String List<Payment> paymentList;
+//        private String List<Payment> paymentList;
     private long pledgeDateTimestamp;
     private long dueDateTimestamp;
 }
