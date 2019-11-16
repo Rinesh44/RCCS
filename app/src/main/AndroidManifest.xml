@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".RccsApp"
+        android:name="com.brilltech.rccs.RccsApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -14,18 +14,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".activities.ReportDetails"></activity>
-        <activity android:name=".activities.StatsActivity" />
-        <activity android:name=".activities.FilesActivity" />
-        <activity android:name=".activities.UserList" />
-        <activity android:name=".activities.login.LoginActivity">
+        <activity android:name="com.brilltech.rccs.activities.ReportDetails"></activity>
+        <activity android:name="com.brilltech.rccs.activities.StatsActivity" />
+        <activity android:name="com.brilltech.rccs.activities.FilesActivity" />
+        <activity android:name="com.brilltech.rccs.activities.UserList" />
+        <activity android:name="com.brilltech.rccs.activities.login.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.ReportsActivity" />
+        <activity android:name="com.brilltech.rccs.activities.ReportsActivity" />
     </application>
 
 </manifest>
