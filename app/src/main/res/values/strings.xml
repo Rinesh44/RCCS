@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rccs</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="user_management">User Management</string>
+    <string name="files">Files</string>
+    <string name="stats">Stats</string>
+    <string name="logout">Logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
