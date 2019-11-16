@@ -20,7 +20,7 @@ import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.example.rccs.R;
+import com.brilltech.rccs.R;
 import com.brilltech.rccs.activities.base.BaseActivity;
 import com.google.android.material.navigation.NavigationView;
 

@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.widget.Toolbar;
 
-import com.example.rccs.R;
+import com.brilltech.rccs.R;
 import com.brilltech.rccs.activities.base.BaseActivity;
 
 import butterknife.BindView;

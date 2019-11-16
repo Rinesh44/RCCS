@@ -1,6 +1,6 @@
 package com.brilltech.rccs.component.module;
 
-import com.example.rccs.BuildConfig;
+import com.brilltech.rccs.BuildConfig;
 import com.brilltech.rccs.api.Endpoints;
 
 import java.io.IOException;

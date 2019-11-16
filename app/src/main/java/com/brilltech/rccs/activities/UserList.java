@@ -8,7 +8,7 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.rccs.R;
+import com.brilltech.rccs.R;
 import com.brilltech.rccs.activities.base.BaseActivity;
 import com.brilltech.rccs.adapter.UserAdapter;
 import com.brilltech.rccs.realm.model.User;
